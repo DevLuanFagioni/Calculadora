@@ -20,7 +20,7 @@ https://fagioni-calculadora.netlify.app
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/DevLuanFagioni/Jogo-da-velha) para detalhes.
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/DevLuanFagioni/Calculadora/blob/main/license) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
